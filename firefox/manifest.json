@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ZAB",
   "version": "1.0",
-  "description": "Automatically forces Google searches into Web mode.",
+  "description": "Automatically forces Google searches into Web mode that has no AI overview. https://github.com/Tyson-Shannon/ZAB",
   "permissions": [
     "storage",
     "tabs",
